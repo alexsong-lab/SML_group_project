@@ -1,5 +1,5 @@
 # **EV Adoption in Washington State**  
-**_Note: The final technical report is included as `WA_EVs_Report.pdf`._**
+**_Note: The final technical report is included as `WA_EVs_Final_Report.pdf`._**
 
 > Analysis of county‑level EV adoption patterns in Washington State using PCA, clustering, and supervised machine learning models.
 
