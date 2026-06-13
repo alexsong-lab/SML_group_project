@@ -28,12 +28,12 @@ This project investigates why electric vehicle (EV) adoption varies so widely ac
 ```
 SML_group_project/
 │
-├── blog_post/                 # Blog-style summary (Homework 4)
-├── code/                      # Homework 4 code (PCA + clustering)
-├── data/                      # Homework 4 data
+├── blog_post/                 # Blog-style summary
+├── code/                      # Unsupervised learning code (PCA + clustering)
+├── data/                      # Raw and cleaned data
 │
 └── final project/
-    ├── code/                  # Final project code (full pipeline)
+    ├── code/                  # Final project code (full pipeline includng supervised learning)
     ├── data/                  # Final project data (scaled + log-transformed)
     └── WA_EVs_Report.pdf      # Final technical report
 ```
@@ -46,6 +46,7 @@ SML_group_project/
   - Washington State Department of Licensing (EV registrations)  
   - U.S. Department of Energy Alternative Fuels Station Locator (charging infrastructure)  
   - U.S. Census Bureau ACS (median household income)
+  - County Profiles (City–County Lookup) - Municipal Research and Services Center (MRSC)
 
 - **Description:**  
   - 39 counties  
